@@ -1,0 +1,2 @@
+printf("Este archivo fue creado en R Studio.")
+printf("Ahora comparter con Git")
